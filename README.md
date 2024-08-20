@@ -1,6 +1,6 @@
 # 🚗 Road Accident Analysis Dashboard
 
-![Dashboard Image](dashboard/dashboard.png)
+![Dashboard Image](Dashboard/dashboard.png)
 
 ## 📊 Overview
 
